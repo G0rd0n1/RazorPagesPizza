@@ -1,6 +1,8 @@
 using RazorPagesPizza.Models;
 
 namespace RazorPagesPizza.Services;
+
+
 public static class PizzaService
 {
     static List<Pizza> Pizzas { get; }
